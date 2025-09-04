@@ -1,10 +1,9 @@
-# US Road Accident Analysis
+# Analyse des accidents de la route aux États-Unis  
 
-This project analyzes traffic accidents in the USA using a large dataset of road incidents.
+Ce projet analyse les accidents de la route aux États-Unis en utilisant un large jeu de données sur les incidents routiers.  
 
-## Contents
-- Data cleaning and preprocessing  
-- Exploratory data analysis (EDA) with visualization  
-- Predictive modeling (Logistic Regression, Random Forest, SMOTE)  
-- Model evaluation with precision, recall, and F1-score  
-
+## Contenu  
+- Nettoyage et prétraitement des données  
+- Analyse exploratoire des données (EDA) avec visualisations  
+- Modélisation prédictive (Régression Logistique, Forêt Aléatoire, SMOTE)  
+- Évaluation des modèles avec précision, rappel et F1-score  
